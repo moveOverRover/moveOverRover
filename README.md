@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Semenov check out some of my personal projects
-- 👀 Currently at school
-- 🌱 I’m a fourth year in Engineering Systems and Computing at the University of Guelph with a focus on robotics
+- 👀 Bachelor's of Engineering Systems and Computing
+- 🌱 Software Engineer and Robotics Professional
 - 📫 Check out my youtube: https://www.youtube.com/channel/UC7BzxHKynZJsx1pS3R10Ztw/featured
 -    Linked In: https://www.linkedin.com/in/alexander-semenov-b129911a2/
 -    Email: alexdsemenov@gmail.com
